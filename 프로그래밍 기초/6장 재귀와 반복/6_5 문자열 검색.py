@@ -1,5 +1,5 @@
 def find_1st(filename, x):
-    infile = open(filename, 'r')
+    infile = open(filename, 'r', encoding='utf-8')
     text = infile.read()
     infile.close()
     position = text.find(x)
@@ -11,4 +11,4 @@ def find_1st(filename, x):
     outfile.close()
     print('Done')
 
-    
+find_1st('article.txt', 'a')

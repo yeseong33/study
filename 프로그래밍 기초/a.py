@@ -15,9 +15,6 @@ def solution(id_list, report, k):
             x = id_list.index(a[0])
             result[x] += 1
 
-추가했다 이 분
-
-
 
 
 

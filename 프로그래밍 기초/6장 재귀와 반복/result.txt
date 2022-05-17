@@ -1,4 +1,1 @@
-6 time(s)
-2 time(s)
-9 time(s)
-apple is not found.
+a is at 2 the 1st time. 
